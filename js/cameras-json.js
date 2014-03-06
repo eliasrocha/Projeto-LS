@@ -1,0 +1,258 @@
+var json = {
+1: {
+id: "1",
+endereco: "Parque Solon de Lucena",
+x: "-7.120501",
+y: "-34.878912",
+caminho: "9001/1",
+codigo_equipamento: "0"
+},
+2: {
+id: "2",
+endereco: "CCHLA - UFPB",
+x: "-7.14501",
+y: "-34.850614",
+caminho: "9002/2",
+codigo_equipamento: "0"
+},
+3: {
+id: "3",
+endereco: "Min. José Américo de Almeida x Av. Rui Barbosa",
+x: "-7.127732",
+y: "-34.861144",
+caminho: "9003/3",
+codigo_equipamento: "0"
+},
+4: {
+id: "4",
+endereco: "Busto de Tamandaré ",
+x: "-7.119423",
+y: "-34.823737",
+caminho: "9004/4",
+codigo_equipamento: "0"
+},
+5: {
+id: "5",
+endereco: "Av. Pres. Getúlio Vargas x Av. Tabajaras",
+x: "-7.120886",
+y: "-34.876732",
+caminho: "9005/5",
+codigo_equipamento: "17"
+},
+6: {
+id: "6",
+endereco: "Av. Epitácio Pessoa X Av. Maranhão",
+x: "-7.119715",
+y: "-34.855317",
+caminho: "9006/6",
+codigo_equipamento: "14"
+},
+7: {
+id: "7",
+endereco: "Av.Epitácio Pessoa x Av. Prefeito José Leite",
+x: "-7.11963",
+y: "-34.839041",
+caminho: "9007/7",
+codigo_equipamento: "11"
+},
+8: {
+id: "8",
+endereco: "Av. Epitácio Pessoa x Av. Ruy Carneiro",
+x: "-7.119481",
+y: "-34.842818",
+caminho: "9008/8",
+codigo_equipamento: "0"
+},
+9: {
+id: "9",
+endereco: "Av. Flávio Ribeiro Coutinho x Av. Edson Ramalho",
+x: "-7.097273",
+y: "-34.835637",
+caminho: "9009/9",
+codigo_equipamento: "16"
+},
+10: {
+id: "10",
+endereco: "Av. General Osório x Av. Guedes Pereira",
+x: "-7.119502",
+y: "-34.884805",
+caminho: "9010/10",
+codigo_equipamento: "0"
+},
+11: {
+id: "11",
+endereco: "Av. João Rodrigues Alves x Av. José Alexandre de Lira",
+x: "-7.147032",
+y: "-34.846973",
+caminho: "9011/11",
+codigo_equipamento: "15"
+},
+12: {
+id: "17",
+endereco: "Av. Ruy Carneiro x Av. Maria Rosa",
+x: "-7.113796",
+y: "-34.831595",
+caminho: "9012/12",
+codigo_equipamento: "0"
+},
+13: {
+id: "18",
+endereco: "Av.Santo Elias x Parque Solon de Lucena",
+x: "-7.118065",
+y: "-34.881195",
+caminho: "9013/13",
+codigo_equipamento: "0"
+},
+14: {
+id: "19",
+endereco: "R. Bancário Sérgio Guerra X R. Rosa Lima dos Santos",
+x: "-7.151025",
+y: "-34.839751",
+caminho: "9014/14",
+codigo_equipamento: "0"
+},
+15: {
+id: "20",
+endereco: "Terminal de Integração",
+x: "-7.118821",
+y: "-34.892045",
+caminho: "9015/15",
+codigo_equipamento: "0"
+},
+16: {
+id: "21",
+endereco: "Viaduto Cristo Redentor",
+x: "-7.165066",
+y: "-34.862673",
+caminho: "9016/16",
+codigo_equipamento: "0"
+},
+17: {
+id: "22",
+endereco: "Epitácio Pessoa x Bento da Gama",
+x: "-7.119864",
+y: "-34.867183",
+caminho: "9017/17",
+codigo_equipamento: "0"
+},
+18: {
+id: "23",
+endereco: "Praça João Pessoa x Praça 1817",
+x: "-7.121312",
+y: "-34.883371",
+caminho: "9018/18",
+codigo_equipamento: "0"
+},
+19: {
+id: "24",
+endereco: "Av. Duarte de Silveira x Av. Maximiano Figueiredo",
+x: "-7.122558",
+y: "-34.871991",
+caminho: "9019/19",
+codigo_equipamento: "0"
+},
+20: {
+id: "25",
+endereco: "Av. João Machado x Américo Falcão",
+x: "-7.126156",
+y: "-34.879072",
+caminho: "9020/20",
+codigo_equipamento: "0"
+},
+21: {
+id: "26",
+endereco: "Cruz das Armas (Feira de Oitizeiro)",
+x: "-7.16003",
+y: "-34.896303",
+caminho: "9021/21",
+codigo_equipamento: "0"
+},
+22: {
+id: "27",
+endereco: "Cruz das Armas (Mercado Público)",
+x: "-7.139091",
+y: "-34.888719",
+caminho: "9022/22",
+codigo_equipamento: "0"
+},
+23: {
+id: "12",
+endereco: "Av. Padre Azevedo X Av. B. Rohan",
+x: "-7.118576",
+y: "-34.887087",
+caminho: "9023/23",
+codigo_equipamento: "0"
+},
+24: {
+id: "13",
+endereco: "Av. Padre Meira x Parque Solon de Lucena",
+x: "-7.120147",
+y: "-34.88171",
+caminho: "9024/24",
+codigo_equipamento: "12"
+},
+25: {
+id: "14",
+endereco: "Rotatória Altiplano",
+x: "-7.125038",
+y: "-34.828255",
+caminho: "9025/25",
+codigo_equipamento: "0"
+},
+26: {
+id: "15",
+endereco: "Rotatória Mangabeira",
+x: "-7.161704",
+y: "-34.83843",
+caminho: "9026/26",
+codigo_equipamento: "0"
+},
+27: {
+id: "16",
+endereco: "Av. Ruy Carneiro x Av. Almirante Tamandaré",
+x: "-7.110112",
+y: "-34.823828",
+caminho: "9027/27",
+codigo_equipamento: "0"
+},
+28: {
+id: "28",
+endereco: "Av. Gov. Flávio Ribeiro Coutinho x R. Manoel Arruda",
+x: "-7.09772",
+y: "-34.844302",
+caminho: "9028/28",
+codigo_equipamento: "0"
+},
+29: {
+id: "29",
+endereco: "Av. Min. José Américo de Almeida x Av. Barão de Mamanguape",
+x: "-7.126188",
+y: "-34.864322",
+caminho: "9029/29",
+codigo_equipamento: "0"
+},
+30: {
+id: "30",
+endereco: "Av. Cabo Branco x Rua Tab. Antônio Carneiro",
+x: "-7.131272",
+y: "-34.821994",
+caminho: "9030/30",
+codigo_equipamento: "0"
+},
+31: {
+id: "31",
+endereco: "Av. Josefa Taveira x R. Elias de Pereira Araújo",
+x: "-7.172187",
+y: "-34.839697",
+caminho: "9031/31",
+codigo_equipamento: "0"
+},
+32: {
+id: "32",
+endereco: "Av. Epitácio Pessoa x Av. Amazonas",
+x: "-7.119715",
+y: "-34.859172",
+caminho: "9032/32",
+codigo_equipamento: "0"
+}
+}
