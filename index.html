@@ -39,6 +39,7 @@
 	<script src="js/foundation.min.js"></script>
 	<script>
 		$(document).foundation();
+		$("body section .row").load("inicio.html");
 		$("nav section .left li").click(function(){
 			var pagina = $(this).children().html().toLocaleLowerCase();
 			$("nav section .left li").removeAttr("class");
