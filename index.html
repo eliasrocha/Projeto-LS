@@ -40,7 +40,7 @@
 	<script>
 		$(document).foundation();
 		$("nav section .left li").click(function(){
-			var pagina = $(this).children().html();
+			var pagina = $(this).children().html().toLocaleLowerCase();
 			$("nav section .left li").removeAttr("class");
 			$(this).attr("class","active");
 			$("body section .row").load(pagina+".html");
